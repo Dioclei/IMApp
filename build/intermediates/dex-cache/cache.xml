@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\Alissa Yarmantho\Documents\Tempat File Pemrograman\RandomRECIMTrialProject\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\25.1.0\jars\classes.jar"
+        jumboMode="true"
+        revision="25.0.2"
+        sha1="e79aa3d9a16f8c9f16377c0608de70a8f31e5d80">
+        <dex dex="C:\Users\Alissa Yarmantho\Documents\Tempat File Pemrograman\RandomRECIMTrialProject\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-vector-drawable-25.1.0_65183d0987ebe212707e193bf34574efe7bc3503\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Alissa Yarmantho\Documents\Tempat File Pemrograman\RandomRECIMTrialProject\app\build\intermediates\exploded-aar\com.android.support\support-v4\25.1.0\jars\classes.jar"
+        jumboMode="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\Alissa Yarmantho\Documents\Tempat File Pemrograman\RandomRECIMTrialProject\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-25.1.0_dc1ebaf20a634966aa7ca7f3b58ef0de5c21780a\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Alissa Yarmantho\AppData\Local\Android\Sdk\extras\android\m2repository\com\android\support\support-annotations\25.1.0\support-annotations-25.1.0.jar"
+        jumboMode="true"
+        revision="25.0.2"
+        sha1="64cb6b229a8bdfd907bc8dd46839a0053e4c018d">
+        <dex dex="C:\Users\Alissa Yarmantho\Documents\Tempat File Pemrograman\RandomRECIMTrialProject\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-25.1.0_f447578f7742225856767066e4af36a4c76fad24\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Alissa Yarmantho\Documents\Tempat File Pemrograman\RandomRECIMTrialProject\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.1.0\jars\classes.jar"
+        jumboMode="true"
+        revision="25.0.2"
+        sha1="0a0ef86b7fa568a52bf6214a0326ca1f1d618da7">
+        <dex dex="C:\Users\Alissa Yarmantho\Documents\Tempat File Pemrograman\RandomRECIMTrialProject\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-utils-25.1.0_70cf7b2dd874177c1c8d36f749978787de5dbd42\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Alissa Yarmantho\Documents\Tempat File Pemrograman\RandomRECIMTrialProject\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\25.1.0\jars\classes.jar"
+        jumboMode="true"
+        revision="25.0.2"
+        sha1="6fb6ac3e8d3b9013819920d9ea11f3803c4c0033">
+        <dex dex="C:\Users\Alissa Yarmantho\Documents\Tempat File Pemrograman\RandomRECIMTrialProject\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-animated-vector-drawable-25.1.0_99a4c709da6e592118a834d173add500f48bb268\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Alissa Yarmantho\Documents\Tempat File Pemrograman\RandomRECIMTrialProject\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\25.1.0\jars\classes.jar"
+        jumboMode="true"
+        revision="25.0.2"
+        sha1="1630658fbc2d222b988603c27b4a4249586fbfe7">
+        <dex dex="C:\Users\Alissa Yarmantho\Documents\Tempat File Pemrograman\RandomRECIMTrialProject\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-25.1.0_d7af07436b7ee6cbb5aef19d6de75c98236b0119\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Alissa Yarmantho\Documents\Tempat File Pemrograman\RandomRECIMTrialProject\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.1.0\jars\classes.jar"
+        jumboMode="true"
+        revision="25.0.2"
+        sha1="ca3c7aa31e2726a400a6e552b93cb9f63c9a1e6d">
+        <dex dex="C:\Users\Alissa Yarmantho\Documents\Tempat File Pemrograman\RandomRECIMTrialProject\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-compat-25.1.0_f38c360d53d7770b4cc01f1e74066fa7aaf38839\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Alissa Yarmantho\Documents\Tempat File Pemrograman\RandomRECIMTrialProject\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="25.0.2"
+        sha1="b2869b840dc8d08e774af4d38a7583384c29a386">
+        <dex dex="C:\Users\Alissa Yarmantho\Documents\Tempat File Pemrograman\RandomRECIMTrialProject\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_12286609556f35465304dc8c1355f12290e74b73\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Alissa Yarmantho\Documents\Tempat File Pemrograman\RandomRECIMTrialProject\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.1.0\jars\classes.jar"
+        jumboMode="true"
+        revision="25.0.2"
+        sha1="f02263e35e52668dd17b73bf961437e3d562b35f">
+        <dex dex="C:\Users\Alissa Yarmantho\Documents\Tempat File Pemrograman\RandomRECIMTrialProject\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-media-compat-25.1.0_0a89db444af4922237091bbecb09c9b652b4ce71\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Alissa Yarmantho\Documents\Tempat File Pemrograman\RandomRECIMTrialProject\app\build\intermediates\exploded-aar\com.android.support\support-fragment\25.1.0\jars\classes.jar"
+        jumboMode="true"
+        revision="25.0.2"
+        sha1="2a53c4f3518116b8c6aee0e477233f0f7da8616f">
+        <dex dex="C:\Users\Alissa Yarmantho\Documents\Tempat File Pemrograman\RandomRECIMTrialProject\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-fragment-25.1.0_c814d337feeb6db4ba085194d0219742fa7ed07b\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Alissa Yarmantho\Documents\Tempat File Pemrograman\RandomRECIMTrialProject\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        revision="25.0.2"
+        sha1="0016c549dad64057ecacec0e66dfca1ef8487503">
+        <dex dex="C:\Users\Alissa Yarmantho\Documents\Tempat File Pemrograman\RandomRECIMTrialProject\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_a025c185ba50a97f4f8c05215ab8737b02e9e042\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Alissa Yarmantho\Documents\Tempat File Pemrograman\RandomRECIMTrialProject\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.1.0\jars\classes.jar"
+        jumboMode="true"
+        revision="25.0.2"
+        sha1="aee64634871d88a419d59eb743c1258a60f19700">
+        <dex dex="C:\Users\Alissa Yarmantho\Documents\Tempat File Pemrograman\RandomRECIMTrialProject\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-ui-25.1.0_879b06dc80cdb2fe10c50922efb2ac8f5e56cbb1\classes.dex" />
+    </item>
+
+</items>
